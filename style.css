@@ -1,0 +1,79 @@
+body{
+    margin-top: 60px;
+    text-align:center;
+    
+  }
+  h1 {
+    padding-bottom: 0.5rem;
+  }
+  input[type=number] {
+    cursor: pointer;
+  }
+  
+  .input-celsius{
+    background-color: #52DDCF !important;
+    font-size: 2.5rem !important;
+  }
+  #input-celsius{
+    background-color: #52DDCF;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  #celsius h2{
+    color: #da7612;
+  }
+  
+  .input-fahrenheit{
+    background-color: #16BAC5 !important;
+    font-size: 2.5rem !important;
+  }
+  #input-fahrenheit{
+    background-color: #16BAC5;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  #fahrenheit h2{
+    color: #da7612;
+  }
+  
+  .input-kelvin{
+    background-color: #42a0d9 !important;
+    font-size: 2.5rem !important;
+  }
+  #input-kelvin{
+    background-color: #42a0d9;
+    font-size: 2.5rem;
+  }
+  #kelvin h2{
+    color: #da7612;
+  }
+  
+  .form-control-lg {
+    padding: 2rem 1rem !important;
+  }
+  .form-padding {
+    padding: 2rem 1rem;
+  }
+  
+  ::-webkit-input-placeholder {
+    color: #FFFFFF !important;
+  }
+  ::-moz-placeholder {
+    color: #FFFFFF !important;
+  }
+  :-ms-input-placeholder {
+    color: #FFFFFF !important;
+  }
+  :-moz-placeholder {
+    color: #FFFFFF !important;
+  }
+  footer{
+    padding-top: 1.5rem;
+    font-size: 0.7rem;
+    line-height: 0.2rem;
+    text-align:center;
+  }
+  .icons{
+    max-width: 25px;
+    height: auto;
+  }
